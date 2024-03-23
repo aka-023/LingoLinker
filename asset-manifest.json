@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/LingoLinker/static/css/main.31d6cfe0.css",
+    "main.js": "/LingoLinker/static/js/main.386dd5b4.js",
+    "static/js/453.c9d2e911.chunk.js": "/LingoLinker/static/js/453.c9d2e911.chunk.js",
+    "index.html": "/LingoLinker/index.html",
+    "main.386dd5b4.js.map": "/LingoLinker/static/js/main.386dd5b4.js.map",
+    "453.c9d2e911.chunk.js.map": "/LingoLinker/static/js/453.c9d2e911.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.386dd5b4.js"
+  ]
+}
